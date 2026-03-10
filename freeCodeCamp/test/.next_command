@@ -66,3 +66,5 @@ __vsc_prompt_cmd_original
 ls --color=auto
 more license
 more LICENSE-MIT
+ls --color=auto -l
+clear
