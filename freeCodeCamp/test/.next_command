@@ -172,3 +172,4 @@ cd client
 cd .
 cd ..
 mkdir assets
+cd assets
