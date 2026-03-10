@@ -84,3 +84,4 @@ ls --color=auto
 clear
 mkdir project
 mkdir website
+ls --color=auto
