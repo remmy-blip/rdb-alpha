@@ -171,3 +171,4 @@ cd client/src
 cd client
 cd .
 cd ..
+mkdir assets
