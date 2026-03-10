@@ -162,3 +162,6 @@ find client
 find --help
 find -name index.html
 find -name styles.css
+find -name client/src
+find -name
+find -name src
