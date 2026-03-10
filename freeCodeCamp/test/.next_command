@@ -117,3 +117,4 @@ cd images
 ls --color=auto
 cd website
 cd ..
+ls --color=auto
