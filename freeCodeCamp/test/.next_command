@@ -165,3 +165,5 @@ find -name styles.css
 find -name client/src
 find -name
 find -name src
+ls --color=auto
+find
