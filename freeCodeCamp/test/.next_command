@@ -60,3 +60,4 @@ ls --color=auto -1
 ls-l
 ls --color=auto -l
 cd has
+ls --color=auto
