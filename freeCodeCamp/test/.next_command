@@ -156,3 +156,4 @@ mv index.html client/src
 mv index.js client/src
 touch index.js
 mv index.js client/src
+mv styles.css client/src
