@@ -167,3 +167,7 @@ find -name
 find -name src
 ls --color=auto
 find
+cd client/src
+cd client
+cd .
+cd ..
