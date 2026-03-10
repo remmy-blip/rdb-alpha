@@ -71,3 +71,4 @@ clear
 ls --color=auto
 src
 cd src
+pwd
