@@ -176,3 +176,8 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+ls --color=auto
+cd ../..
+cd ../../..
+cd /workspace/project/website/client/assets/images
+cd ../../..
