@@ -124,3 +124,4 @@ cp header.jpg images
 cp header.png images
 cp footer.png images
 cp footer.jpeg images
+cd images
