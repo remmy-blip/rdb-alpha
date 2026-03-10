@@ -173,3 +173,4 @@ cd .
 cd ..
 mkdir assets
 cd assets
+mkdir images
