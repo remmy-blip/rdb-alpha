@@ -272,3 +272,4 @@ cd workspace/project/website
 cd images
 cd /workspace/project/website
 cd images
+ls --color=auto
