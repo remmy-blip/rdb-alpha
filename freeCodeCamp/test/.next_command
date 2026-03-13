@@ -273,3 +273,9 @@ cd images
 cd /workspace/project/website
 cd images
 ls --color=auto
+cd ..
+mv header.png website
+mv header.png ..
+cd /workspace/project/images
+cd /workspace/project/website/images
+mv header.png ..
