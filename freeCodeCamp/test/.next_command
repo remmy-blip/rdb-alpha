@@ -280,3 +280,5 @@ cd /workspace/project/images
 cd /workspace/project/website/images
 mv header.png ..
 ls --color=auto
+cd website
+cd ..
