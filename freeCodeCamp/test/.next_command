@@ -296,3 +296,4 @@ rmdir images
 cd /workshop/project/website/images
 rm images/background.jpg
 rmdir images
+ls --color=auto
