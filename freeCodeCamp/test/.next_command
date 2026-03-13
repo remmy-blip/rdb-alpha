@@ -290,3 +290,5 @@ find -name header.png
 find -name footer.jpeg
 mv footer.jpeg client/assets/images
 mv images/footer.jpeg client/assets/images
+ls --color=auto
+find
